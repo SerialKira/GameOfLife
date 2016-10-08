@@ -1,0 +1,11 @@
+
+Objetivos Trabalho de POO/ GoL:
+
+
+Implementação de interface gráfica;
+padrão memento;
+versão infinita de tabuleiro;
+formação de geração automática;
+injeção de dependência;
+
+
