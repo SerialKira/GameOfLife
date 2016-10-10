@@ -1,0 +1,10 @@
+
+Objetivos Trabalho de POO/ GoL:
+Template method; //ok
+Implementação de interface gráfica;
+padrão memento;
+versão infinita de tabuleiro; //eu
+formação de geração automática;//egler
+injeção de dependência;
+
+
