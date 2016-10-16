@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/PedroHenrique/Documents/spring-source/target/dependencies/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PedroHenrique/Documents/spring-source/target/dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PedroHenrique/Documents/spring-source/target/dependencies/spring-aop-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PedroHenrique/Documents/spring-source/target/dependencies/spring-beans-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PedroHenrique/Documents/spring-source/target/dependencies/spring-context-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PedroHenrique/Documents/spring-source/target/dependencies/spring-core-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PedroHenrique/Documents/spring-source/target/dependencies/spring-expression-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
